@@ -104,7 +104,7 @@ export default function Home() {
         <div className="hero-visual">
           <div className="portrait-frame">
             <img
-              src="https://enlightenmentreiki.com/wp-content/uploads/2019/01/DSC2204-2.jpg"
+              src="/sally-littleton.jpg"
               alt="Sally Littleton, Reiki Shihan and founder of Enlightenment Reiki"
             />
           </div>
